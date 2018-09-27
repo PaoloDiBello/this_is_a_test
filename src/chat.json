@@ -1,0 +1,8 @@
+
+ [
+	{"id":"bot","text":"Hi! I am a lovely bot!","time":"11:01"},
+    {"id":"human", "text":"Hi Bot! I am a mere human being.","time":"11:02"},
+	{"id":"human", "text":"Please, don't be obnoxious!","time":"11:03"},
+	{"id":"bot", "text":"My bad. I am sorry.","time":"11:04"}	,
+	{"id":"human", "text":"Everybody is identical in their secret unspoken belief that way deep down they are different from everyone else.","time":"11:05"} 
+ ]

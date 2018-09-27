@@ -1,0 +1,6 @@
+[
+	{"id":"bot","text":"Hi! I am the lovely bot!","time":"11:01"},
+    {"id":"human", "text":"Hi Bot! I am a mere human being.","time":"11:02"},
+	{"id":"human", "text":"Please, don't be obnoxious!","time":"11:03"},
+	{"id":"bot", "text":"My bad. I am sorry.","time":"11:04"
+ ]

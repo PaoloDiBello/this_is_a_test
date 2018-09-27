@@ -1,0 +1,33 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://github.com/PaoloDiBello/this_is_a_test",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "d3-node": "^2.0.1",
+    "d3-scale": "^2.1.2",
+    "react": "^16.4.2",
+    "react-audio-recorder": "^2.1.0",
+    "react-bootstrap-sidebar": "0.0.1",
+    "react-dom": "^16.4.2",
+    "react-mic": "^12.2.2",
+    "react-mic-record": "^1.0.6",
+    "react-scripts": "1.1.5",
+    "react-speech-recognition": "^1.0.7",
+    "react-transition-group": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "@babel/preset-stage-1": "^7.0.0",
+    "gh-pages": "^2.0.0",
+    "webpack-config": "^7.5.0"
+  }
+}
